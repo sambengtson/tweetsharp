@@ -1,0 +1,14 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\TweetSharpTest.exe.config
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\obj\Debug\TweetSharpTest.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\TweetSharpTest.exe
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\TweetSharpTest.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Hammock.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\TweetSharp.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\TweetSharp.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Hammock.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\obj\Debug\TweetSharpTest.exe
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharpTest\obj\Debug\TweetSharpTest.pdb

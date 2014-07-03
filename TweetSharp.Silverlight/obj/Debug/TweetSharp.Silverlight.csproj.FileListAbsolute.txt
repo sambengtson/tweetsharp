@@ -1,0 +1,2 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\src\TweetSharp.Silverlight\obj\Debug\TweetSharp.Silverlight.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharp.Silverlight\obj\Debug\TweetSharp.Silverlight.csprojResolveAssemblyReference.cache

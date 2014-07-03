@@ -1,0 +1,2 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\src\TweetSharp.Tests\obj\Debug\TweetSharp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\tweetsharp\TweetSharp.Tests\obj\Debug\TweetSharp.Tests.csprojResolveAssemblyReference.cache
