@@ -3,7 +3,7 @@
     PM> Install-Package TweetSharp          
 ```
 
-**_This was forked and modified from the original project danielcrenna/tweetsharp.  I cleaned up a couple of things reguarding the Visual Studio Solution and also converted the project to VS2013.  More than willing to accept pulls_**
+**_This was forked and modified from the original project danielcrenna/tweetsharp.  I cleaned up a couple of things regarding the Visual Studio Solution and also converted the project to VS2013.  More than willing to accept pulls_**
 
 #### Addressing issues with deserialization 
 In some cases, and mostly reported when trying to access the timeline of a protected user, the deserializer can get into an
